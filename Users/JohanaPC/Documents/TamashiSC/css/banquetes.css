@@ -1,0 +1,80 @@
+/*Banquetes*/
+.banq{
+	margin-bottom: 5%;
+}
+button{
+	background-color: transparent;
+	padding: 0% !important;
+}
+.icono{
+	border-radius: 10em !important;
+	border: transparent;
+	margin-left: 5% !important;
+}
+h3{
+	color: #3f3d38 !important;
+}
+/*Slider-modal*/
+.im-car{
+	width: 100%;
+}
+.fa-chevron-right, .fa-chevron-left{
+	margin-top: 80%;
+}
+.circle{
+	border-radius: 100%;
+	padding: 2em;
+}
+.circle img{
+	height: 100%;
+	width: 100%;
+}
+.modal-content{
+	background-color: transparent !important;
+	padding-top: 0%;
+}
+.modal-body p {
+	font-size: 1.5em !important;
+}
+.modal-body .fa-chevron-left, .modal-body .fa-chevron-right{
+	margin-top: 5em !important;
+}
+.modal-title{
+	color:#B30000;
+}
+.modal-img{
+	height: 10em;
+}
+/*-----*/
+.tit h2{
+	margin-bottom: 8%;
+	color:#B30000;
+	font-size: 300% !important;
+}
+.mg-7{
+	margin-top: 10%;
+}
+.text-center{
+	text-align: center;
+}
+.mt-3{
+	margin-top: 10%;
+}
+/*Cambio Japones*/
+.serv{
+	text-align: center;
+	font-weight: bolder;
+}
+.txtfin{
+	margin-top: -5%;
+}
+@media only screen and (max-width : 1024px) {
+	.tit h2{
+		margin-top: 10%;
+	}
+}
+@media screen and (max-width: 600px) {
+	.tit h2{
+		margin-top: 12%;
+	}
+}

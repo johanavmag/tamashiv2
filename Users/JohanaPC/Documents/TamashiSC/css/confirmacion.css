@@ -1,0 +1,51 @@
+body{
+	background-color: #e8e8e7 !important;
+	font-family: 'Lato', sans-serif !important;
+}
+.logo{
+	height: 45%;
+	width: 45%;
+	margin-left: 30%;
+	margin-top: -18%;
+}
+h1{
+	color: #B30000 !important;
+	text-shadow: -4px -2px 16px rgba(0, 0, 0, 1);
+	font-size: 2em !important;
+}
+.rd-bt{
+	width:38% !important;
+	float:left;
+	padding: 1.5%;
+	background-color: #B30000; 
+	color: #fff;
+}
+.btns :hover{
+	font-size:.82em;
+}
+.rd-bt1{
+	float:right !important;
+}
+#bttns{
+	background-color: transparent;
+}
+.mrgn{
+	margin-top: 1%;
+
+}
+
+h2{
+ color: #B30000 !important;
+ text-shadow: -4px -2px 16px rgba(0, 0, 0, 1);
+ font-size: 1.8em !important;
+ margin-left: 15%;
+}
+
+h3{
+ font-size: 1.5em !important;
+ margin-left: 25%;
+}
+h4{
+ font-size: 2em !important;
+
+}
